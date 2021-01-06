@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1601592612 source:/home/matias/Proyectos Programacion/MetodoMontecarlo/main.cpp
+	<stdlib.h>
+	<iostream>
+	<cmath>
+	<time.h>
+
